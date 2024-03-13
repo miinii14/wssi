@@ -20,3 +20,12 @@ pozostale warianty wykonuja sie juz istniejacymy algorytmami
 - klasyfikacja tekstu do kategorii tematycznych (nie idealnie rozroznia informacje),
 - odpowiadanie na proste pytania zadawane w języku naturalnym (nie idealnie rozroznia informacje i rozumie ludski glos),
 - kierowanie samochodem (w zlej miejscowosci bez znakow i dobrej drogi ai czasem moze sie mylic)
+
+# zad3
+## bardzo limitowane
+- rozmowa towarzyska (duza ilosc żargonizmow, dialektow i sposobow wyrazenia informacji),
+- odpowiadanie na pytania klientów w telefonicznej infolinii (trudne rozumienie glosu, rozne mikrofony),
+## mniej limitowane
+- dyskusja polityczna (uzywanie jezyku formalnego i wiadomych terminow),
+- dyskusja naukowa (uzywanie jezyku formalnego i wiadomych terminow),
+- odpowiadanie na pytania klientów w internetowej infolinii (praca z tekstem, a nie z glosem i mikrofonem)
